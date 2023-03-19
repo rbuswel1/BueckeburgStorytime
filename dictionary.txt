@@ -1,24 +1,25 @@
-Raesfeld: Municipality in the South of Germany.
-Flughafen: Airport.
-Berlin: Capital of Germany.
-Bratwurst: A traditional german sausage.
-Hauptstrasse: High street, or main street.
-Brot: Bread.
-Klimaanlage: Air conditioner.
-Rammstein: Ramming stone, or the popular rock band.
-Porsche: Offerings, or car brand named after creators Ferdinand and Ferry Porsche.
-BMW 
-Biergarten: beer garden.
-Ratskeller: basement tavern.
-Dirndel: Dirndl, or traditional German feminine clothing.
-Lederhose: Lederhosen, or leather breeches (often .
-Schloss: Lock, depending on context, or castle
-wettbewerbsfaehig: competitive.
-Mehlhase 
-Gebaeck 
-Baeckerei: bakery.
-Hund: Hound.
-Doener: Roasted meat on a stick.
-Apfelkuchen: Apple pie.
-Schloss: Castle, depending on context.
+Apfelkuchen:        Apple pie.
+Baeckerei:          Bakery.
+Berlin:             Capital of Germany.
+Biergarten:         Beer garden.
+BMW
+Brot:               Bread.
+Bratwurst:          A traditional german sausage.
+Dirndel:            Dirndl, or traditional German feminine clothing.
+Doener:             Roasted meat on a stick.
 Eltz
+Flughafen:          Airport.
+Gebaeck:            Pastries.
+Hauptstrasse:       High street, or main street.
+Hund:               Dog.
+Klimaanlage:        Air conditioner.
+Lederhose:          Leather pants.
+Mehlhase:           Flour Bunny.
+Porsche:            Offerings, or car brand named after creators Ferdinand
+                    and Ferry Porsche.
+Raesfeld:           Municipality in the South of Germany.
+Rammstein:          Ramming stone, or the popular rock band.
+Ratskeller:         Basement tavern.
+Schloss:            Lock, depending on context, or castle
+Schloss:            Castle, depending on context.
+wettbewerbsfaehig:  Competitive.
