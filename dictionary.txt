@@ -2,12 +2,14 @@ Apfelkuchen:        Apple pie.
 Baeckerei:          Bakery.
 Berlin:             Capital of Germany.
 Biergarten:         Beer garden.
-BMW
+BMW:                Bayerische Motoren Werke Aktiengesellschaft, a German 
+                    car company.
 Brot:               Bread.
 Bratwurst:          A traditional german sausage.
 Dirndel:            Dirndl, or traditional German feminine clothing.
 Doener:             Roasted meat on a stick.
-Eltz
+Eltz:               A castle in Germany owned by a branch of the German 
+                    family, the House of Eltz
 Flughafen:          Airport.
 Gebaeck:            Pastries.
 Hauptstrasse:       High street, or main street.
