@@ -25,3 +25,4 @@ Ratskeller:         Basement tavern.
 Schloss:            Lock, depending on context, or castle
 Schloss:            Castle, depending on context.
 wettbewerbsfaehig:  Competitive.
+Frau	            Woman
